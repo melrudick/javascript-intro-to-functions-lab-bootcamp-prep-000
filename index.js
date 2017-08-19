@@ -9,7 +9,7 @@ function logShout(string) {
   console.log('HELLO')
 }
 function sayHiToGrandma(string) {
-  return string.toUpperCase('YES INDEED')
+  return string.toUpperCase('YES INDEED!')
 }
 function sayHiToGrandma(string) {
   return string.toLowerCase("I can't hear you")
