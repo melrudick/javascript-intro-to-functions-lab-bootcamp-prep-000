@@ -12,5 +12,5 @@ function sayHiToGrandma(string) {
   return string.toUpperCase('HELLO')
 }
 function sayHiToGrandma(string) {
-  return dtring.toLowerCase("I can't hear you")
+  return string.toLowerCase("I can't hear you")
 }
