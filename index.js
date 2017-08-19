@@ -12,8 +12,9 @@ function sayHiToGrandma(string) {
   return string.toUpperCase('YES INDEED!')
 }
 function sayHiToGrandma(string) {
-  return string.toLowerCase("I can't hear you")
+  return string.toLowerCase('I can't hear you') 
 }
+
 function logWhisper(string) {
   console.log("hello")
 }
