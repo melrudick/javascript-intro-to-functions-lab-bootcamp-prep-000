@@ -9,5 +9,5 @@ function logShout(string) {
   console.log(string)
 }
 function sayHiToGrandma(string) {
-  return string.toUpperCase()
+  return string.toUpperCase('Hello')
 }
